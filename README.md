@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amaragoodness
+- 👀 I’m interested in compiler design
+- 🌱 I’m currently learning compiler design
+- 💞️ I’m looking to collaborate on compiler design open source related projects
+- 📫 How to reach me amaragoodness18@gmail.com
